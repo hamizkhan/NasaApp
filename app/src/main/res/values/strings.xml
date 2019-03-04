@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NasaApp</string>
+    <string name="button">REQUEST DATA</string>
+    <string name="asteroid">asteroidPic</string>
+</resources>
